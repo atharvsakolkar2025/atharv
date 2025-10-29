@@ -4,3 +4,4 @@ This is my first git repository
 Author Atharv Sakolkar
 <br>
 Lenovo Ideapad 
+Samsung S23 Ultra
